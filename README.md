@@ -1,5 +1,4 @@
 # Fault Injection Attacks on Non-Volatile Memories (NVMs)
-
 This project focuses on performing fault injection attacks on non-volatile memories(FRAM and MRAM) using an STM32 microcontroller. The goal is to analyze how memory data 
 gets corrupted under controlled fault conditions and to classify different fault patterns.
 
